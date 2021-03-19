@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_architectsconnect_name": {
-            "defaultValue": "architectsconnect",
+            "defaultValue": "architectsconnect2",
             "type": "String"
         },
         "serverfarms_architectsconnect_asp_name": {
