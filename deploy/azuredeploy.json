@@ -158,7 +158,7 @@
                 "[resourceId('Microsoft.Web/sites', parameters('sites_architectsconnect_name'))]"
             ],
             "properties": {
-                "siteName": "architectsconnect",
+                "siteName": "architectsconnect2",
                 "hostNameType": "Verified"
             }
         }
